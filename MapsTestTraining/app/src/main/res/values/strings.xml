@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Maps Test</string>
+    <string name="google_maps_api_key">AIzaSyAruUVRqfkA34qz8gnm3MnyORWSwRZQn1Y</string>
+
+    <string name="edit_text_hint_title">Título</string>
+    <string name="edit_text_hint_description">Descripción</string>
+    <string name="edit_text_hint_date">Fecha</string>
+    <string name="edit_text_hint_location">Lugar</string>
+    <string name="text_add_image">AÑADIR IMAGEN</string>
+    <string name="btn_text_save">GUARDAR</string>
+
+    <string name="note_text_no_happy_places_found_yet_kindly_add_one">Ningún lugar añadido todavía</string>
+    <string name="image_content_description">imagen</string>
+
+    <string name="btn_text_view_on_map">LUGAR SOBRE EL MAPA</string>
+    <string name="add_place_select_current_location_text">SELECCIONA LUGAR</string>
+</resources>
